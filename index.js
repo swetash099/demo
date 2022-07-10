@@ -4,7 +4,8 @@ let port = process.env.PORT || 8080;
 const demo_data = {
     name: "Demo Developer",
     country: "India",
-    city: "Noida"
+    city: "Noida",
+    pincode:"201301"
 };
 
 http
